@@ -80,11 +80,17 @@ Local / HuggingFace LLM
 
 
 ├── dotnet-api/ # ASP.NET Core backend
+
 ├── ml-service/ # FastAPI ML pipeline
+
 ├── sampledocs/ # Example PDFs
+
 ├── Screenshots/ # UI demo images
+
 ├── .env # Secrets (ignored)
+
 └── .gitignore
+
 
 
 ---
